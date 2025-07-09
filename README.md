@@ -1,6 +1,6 @@
 # Vendor-Performance-Data-Analytics-End-To-End-Project
 
-🔗 [**Live Dashboard** (Power BI)][https://app.powerbi.com/viewr=eyJrIjoiM2E0ODk4MjgtNGQxMy00ZWMzLWExNWEtN2YzYWU5ZjI4NjYyIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9]
+🔗 [**Live Dashboard (Power BI)**](https://app.powerbi.com/view?r=eyJrIjoiM2E0ODk4MjgtNGQxMy00ZWMzLWExNWEtN2YzYWU5ZjI4NjYyIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9)
 
 # 📦 Retail Sales & Inventory Optimization
 
@@ -100,9 +100,9 @@ By applying data analytics to sales and inventory data, this project helps the b
 ## 📬 Contact
 
 For questions, suggestions, or collaboration:  
-📧 *prathmkapde17@email.com*  
-🔗 [LinkedIn]([https://www.linkedin.com/in/PrathmeshKapde/]) | 🐙 [GitHub]([https://github.com/prathmkapde17])
-
+📧 **prathmesh@email.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/PrathmeshKapde)  
+🐙 [GitHub](https://github.com/prathmkapde17)
 ---
 
 > ⭐ *If you found this helpful, feel free to star this repo!*
